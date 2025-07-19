@@ -1,4 +1,3 @@
-// lib/pages/list_page.dart
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import '../models/repair_job.dart';
