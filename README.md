@@ -2,7 +2,8 @@
 **Aman Tiwari**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aman-tiwari-a6b627373) | [GitHub](https://github.com/Amantiw-rayq)
 
-# Electronics Sales & Service Tracker App
+# PennyLog
+Electronics Sales & Service Tracker App
 
 A custom Flutter application built to streamline job tracking, customer management, and payment collection for local electronics repair shops and service businesses.
 
