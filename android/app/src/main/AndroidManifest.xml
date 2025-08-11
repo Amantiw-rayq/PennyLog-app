@@ -3,7 +3,7 @@
 
 
     <application
-        android:label="PG Services"
+        android:label="PennyLog"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
