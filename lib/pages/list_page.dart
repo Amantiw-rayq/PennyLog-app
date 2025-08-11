@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Aman Tiwari. All rights reserved.
+// Unauthorized copying or distribution of this file is prohibited.
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import '../models/repair_job.dart';
