@@ -13,7 +13,7 @@ Future<void> exportJobsToPdfAndShare(List<RepairJob> jobs) async {
   doc.addPage(pw.MultiPage(
     pageFormat: PdfPageFormat.a4,
     build: (context) => [
-      pw.Header(level: 0, child: pw.Text('Pragati Electronics  All Repairs Report', style: pw.TextStyle(fontSize: 24))),
+      pw.Header(level: 0, child: pw.Text('XYZ Electronics  All Repairs Report', style: pw.TextStyle(fontSize: 24))),
       pw.Table.fromTextArray(
         headers: tableHeaders,
         data: jobs.map((j) {
