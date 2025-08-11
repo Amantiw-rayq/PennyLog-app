@@ -24,7 +24,7 @@ class _DetailsPageState extends State<DetailsPage> {
 
   void _copyBill() {
     final msg = '''
-*Pragati Electronics*
+*XYZ Electronics*
 Thanks For Choosing Our Services
 
 *Customer Name:* ${job.customerName ?? 'N/A'}
